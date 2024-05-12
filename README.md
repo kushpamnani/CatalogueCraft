@@ -1,6 +1,6 @@
 # CatalogueCraft
 
-Hey there! Welcome to **CatalogueCraft**. I built this full-stack web application to help e-commerce businesses streamline the way they manage their product catalogs. Built with the MERN stack—MongoDB, Express, React, and Node.js—**CatalogueCraft** offers a robust and scalable platform tailored for the dynamic needs of online stores.
+Welcome to **CatalogueCraft**. I built this full-stack web application to help e-commerce businesses streamline the way they manage their product catalogs. Built with the MERN stack—MongoDB, Express, React, and Node.js—**CatalogueCraft** offers a robust and scalable platform tailored for the dynamic needs of online stores.
 
 ## About This Project
 
