@@ -1,3 +1,6 @@
+/*
+Author: Kush Pamnani
+*/
 
 const mongoose = require('mongoose');
 
