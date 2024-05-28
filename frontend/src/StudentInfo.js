@@ -1,3 +1,7 @@
+/*
+Author: Kush Pamnani
+*/
+
 import React from 'react';
 
 function StudentInfo() {
