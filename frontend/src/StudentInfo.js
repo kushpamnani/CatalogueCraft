@@ -4,6 +4,7 @@ Author: Kush Pamnani
 
 import React from 'react';
 
+//class info
 function StudentInfo() {
   return (
     <div>
