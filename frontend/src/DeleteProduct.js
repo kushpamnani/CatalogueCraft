@@ -7,6 +7,7 @@ Author: Kush Pamnani
 import React, { useState } from 'react';
 import axios from 'axios';
 
+//Deleting
 function DeleteProduct() {
   const [productId, setProductId] = useState('');
 
